@@ -5,7 +5,7 @@ import Common from './Common';
 function About() {
     return (
         <>
-          <Common name = 'Welcome to About Page' imgsrc = {img} visit = '/contact' btname = 'Contact Now' />
+          <Common name = '' imgsrc = {img} visit = '/contact' btname = 'Contact Now' />
         </>
     )
 }

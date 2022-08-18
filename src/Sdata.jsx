@@ -1,34 +1,34 @@
-import web from './images/web.jpg';
-import app from './images/app.jpg';
-import android from './images/android.jpg';
-import digital from './images/digital.jpg';
-import marketing from './images/marketing.jpg';
-import software from './images/software.jpg';
+import backend from './images/backend.jpg';
+import frontend from './images/frontend.png';
+import fullstack from './images/fullstack.jpg';
+import UI from './images/UI.png';
+import programming from './images/programming.jpg';
+import devops from './images/devops.png';
 
 const Sdata = [
     {
-        imgsrc:web,
-        title:'Web Development'
+        imgsrc:frontend,
+        title:'Front-end development'
     },
     {
-        imgsrc:app,
-        title:'App Development'
+        imgsrc:backend,
+        title:'Backend developemnt'
     },
     {
-        imgsrc:android,
-        title:'Android Development'
+        imgsrc:fullstack,
+        title:'Full Stack Development'
     },
     {
-        imgsrc:digital,
-        title:'Digital Marketing'
+        imgsrc:programming,
+        title:'Programming'
     },
     {
-        imgsrc:marketing,
-        title:'Marketing'
+        imgsrc:UI,
+        title:'UI Designing'
     },
     {
-        imgsrc:software,
-        title:'Software Development'
+        imgsrc:devops,
+        title:'Devops(Basics)'
     }
 ];
 
